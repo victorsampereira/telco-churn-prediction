@@ -63,7 +63,7 @@ Siga as instruções abaixo para replicar o ambiente e executar os notebooks.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/telco-churn-prediction.git](https://github.com/seu-usuario/telco-churn-prediction.git)
+    git clone https://github.com/victorsampereira/telco-churn-prediction
     cd telco-churn-prediction
     ```
 
